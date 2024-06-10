@@ -1,46 +1,32 @@
-# Getting Started with Create React App
+# AA studio design
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenido a AA Studio Design, tu aliado creativo para todas tus necesidades de diseño. Nuestro sitio web está diseñado para ofrecerte una visión completa de nuestros servicios, testimonios de clientes, información de contacto y una galería de nuestros mejores trabajos.
 
-## Available Scripts
+## Servicios
 
-In the project directory, you can run:
+En AA Studio Design, ofrecemos una amplia gama de servicios de diseño para satisfacer todas tus necesidades creativas. Algunos de nuestros servicios incluyen:
 
-### `npm start`
+Diseño Gráfico: Logotipos, tarjetas de presentación, folletos y más.
+Diseño Web: Desarrollo y diseño de sitios web responsivos y optimizados.
+Branding: Estrategias de marca, identidad visual y manuales de marca.
+Publicidad Digital: Campañas publicitarias en redes sociales, banners y anuncios.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `Testimonios`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Nos enorgullece recibir feedback positivo de nuestros clientes.
 
-### `npm test`
+### `Contacto`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Estamos aquí para ayudarte. Si tienes alguna pregunta o necesitas más información sobre nuestros servicios, no dudes en ponerte en contacto con nosotros
 
-### `npm run build`
+### `Nuestros Mejores Trabajos`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Explora nuestra galería para ver algunos de nuestros proyectos más destacados. Estamos orgullosos del trabajo que hemos realizado para nuestros clientes y esperamos que disfrutes viendo nuestros diseños tanto como nosotros disfrutamos creándolos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `Contribuciones`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Si tienes alguna sugerencia o deseas contribuir a nuestro sitio web, no dudes en abrir un issue o enviar un pull request. Valoramos las opiniones y el apoyo de nuestra comunidad.
 
-### `npm run eject`
+## Gracias y esperamos verte pronto 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Gracias por visitar AA Studio Design. Esperamos poder trabajar contigo y ayudarte a hacer realidad tus ideas de diseño
