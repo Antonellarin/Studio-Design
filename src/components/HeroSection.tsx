@@ -3,15 +3,20 @@ import { motion } from 'framer-motion';
 import image1 from '../assents/1.png';
 import image2 from '../assents/2.png';
 import image3 from '../assents/3.png';
-import image4 from '../assents/3.png';
+import image4 from '../assents/4.png';
+import image5 from '../assents/5.png';
+import image6 from '../assents/6.png';
+import image7 from '../assents/7.png';
+import image8 from '../assents/8.png';
 
 
-const images = [image1, image2, image3, image4];
+const images = [image1, image2, image3, image4, image5, image6, image7, image8];
 
 const HeroSection: React.FC = () => {
   return (
     <motion.section 
-      className="flex flex-col items-center justify-center min-h-screen  customPink-100 text-center mt-10"
+    id="home"
+      className="flex flex-col items-center justify-center min-h-screen  customPink-100 text-center mt-24"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
     >

@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 const Testimonials: React.FC = () => {
   return (
     <motion.section 
+    id="testimonials"
       className="py-16 bg-black text-center"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
