@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding: 20px; /* Added padding for better spacing on small screens */
 }
 
 .App-logo {
@@ -22,10 +23,31 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 20px; /* Added padding for better spacing on small screens */
+}
+
+/* Adjust font-size for smaller screens */
+@media (max-width: 600px) {
+  .App-header {
+    font-size: calc(8px + 2vmin);
+  }
+  
+  .App-logo {
+    height: 30vmin;
+  }
 }
 
 .App-link {
   color: #61dafb;
+  text-decoration: none;
+  padding: 10px 20px; /* Added padding for better touch targets */
+  border-radius: 5px; /* Added border-radius for better visuals */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+}
+
+.App-link:hover {
+  background-color: #61dafb;
+  color: #282c34;
 }
 
 @keyframes App-logo-spin {
