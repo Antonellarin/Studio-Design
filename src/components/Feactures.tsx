@@ -7,6 +7,7 @@ const Features: React.FC = () => {
       <h2 className="text-3xl md:text-4xl font-bold mb-8">Servicios</h2>
       <div className="flex flex-wrap justify-center">
         <motion.div 
+        id="features"
           className="w-full sm:w-80 p-4 m-4 bg-customPink rounded shadow-lg"
           whileHover={{ scale: 1.05 }}
         >
