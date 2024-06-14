@@ -15,15 +15,43 @@ const Testimonials: React.FC = () => {
           className="w-full sm:w-80 p-4 m-4 bg-customPink rounded shadow-lg"
           whileHover={{ scale: 1.05 }}
         >
-          <p className="italic">"Esta empresa transformó nuestro negocio."</p>
+          <p className="italic">"Excelente trabajo "</p>
           <p className="mt-2 font-semibold">- Cliente Satisfecho</p>
         </motion.div>
         <motion.div 
           className="w-full sm:w-80 p-4 m-4 bg-customPink rounded shadow-lg"
           whileHover={{ scale: 1.05 }}
         >
-          <p className="italic">"El mejor servicio que hemos recibido."</p>
-          <p className="mt-2 font-semibold">- Otro Cliente Satisfecho</p>
+          <p className="italic">"Comprendio mis ideas al 100%, lo super recomiendo "</p>
+          <p className="mt-2 font-semibold">- Cliente Satisfecho</p>
+        </motion.div>
+        <motion.div 
+          className="w-full sm:w-80 p-4 m-4 bg-customPink rounded shadow-lg"
+          whileHover={{ scale: 1.05 }}
+        >
+          <p className="italic">"Muy satisfecha con mi producto "</p>
+          <p className="mt-2 font-semibold">- Cliente Satisfecho</p>
+        </motion.div>
+        <motion.div 
+          className="w-full sm:w-80 p-4 m-4 bg-customPink rounded shadow-lg"
+          whileHover={{ scale: 1.05 }}
+        >
+          <p className="italic">"Trabajo hace años con Anto, siempre capta mis ideas y ayuda con el crecimiento de mi negocio "</p>
+          <p className="mt-2 font-semibold">- Cliente Satisfecho</p>
+        </motion.div>
+        <motion.div 
+          className="w-full sm:w-80 p-4 m-4 bg-customPink rounded shadow-lg"
+          whileHover={{ scale: 1.05 }}
+        >
+          <p className="italic">"Super recomendable "</p>
+          <p className="mt-2 font-semibold">- Cliente Satisfecho</p>
+        </motion.div>
+        <motion.div 
+          className="w-full sm:w-80 p-4 m-4 bg-customPink rounded shadow-lg"
+          whileHover={{ scale: 1.05 }}
+        >
+          <p className="italic">"Atencion 100% personalizada y super responsable"</p>
+          <p className="mt-2 font-semibold">-  Cliente Satisfecho</p>
         </motion.div>
       </div>
     </motion.section>
